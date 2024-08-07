@@ -105,20 +105,5 @@
 
 *In conclcusion the exact loaction is:- **77XF+QJ Tashkent, Uzbekistan***
 
-## challange 4
-![alt text](IMG_2747.jpg)
 
-*Now we are going to find the exact loaction of this place*
-### steps
-#### 1, Finding clues in the image
-
-![alt text](<Screenshot from 2024-07-19 07-46-42.png>)
-
-*i will try to locate the exact place using the design patterns on the bridge*
-
-#### 2, reverse image searching 
-
-*The bridge has a design pattern that looks like a **flower/star** Now i will go to yandex.com and i will try to find those patterns.*
-
-![alt text](<Screenshot from 2024-07-19 09-34-17.png>)
 
